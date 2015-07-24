@@ -13,12 +13,12 @@
  * marketing, sales and contracting. $LastChangedDate$ $LastChangedBy$
  * $Revision$
  */
-package com.gmail.gtassone.util.data.file;
+package com.gmail.gtassone.util.data.file_old;
 
 import java.io.File;
 
 import com.gmail.gtassone.util.data.AbstractImporter.RowValidator;
-import com.gmail.gtassone.util.data.file.RecordFileImporter.Row;
+import com.gmail.gtassone.util.data.file_old.RecordFileImporter.Row;
 
 /**
  * {@link RowValidator} which checks a specified field in the Row against a set

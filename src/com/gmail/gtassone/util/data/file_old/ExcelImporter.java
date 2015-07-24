@@ -13,7 +13,7 @@
  * marketing, sales and contracting. $LastChangedDate$ $LastChangedBy$
  * $Revision$
  */
-package com.gmail.gtassone.util.data.file;
+package com.gmail.gtassone.util.data.file_old;
 
 import java.io.File;
 import java.io.FileInputStream;

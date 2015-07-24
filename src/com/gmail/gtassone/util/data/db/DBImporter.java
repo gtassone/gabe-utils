@@ -10,9 +10,9 @@ import java.util.Properties;
 import org.apache.log4j.Logger;
 
 import com.gmail.gtassone.util.data.AbstractImporter;
-import com.gmail.gtassone.util.data.file.FieldFilterRowValidator;
-import com.gmail.gtassone.util.data.file.FixedFieldFileImporter;
-import com.gmail.gtassone.util.data.file.RecordFileImporter.Row;
+import com.gmail.gtassone.util.data.file_old.FieldFilterRowValidator;
+import com.gmail.gtassone.util.data.file_old.FixedFieldFileImporter;
+import com.gmail.gtassone.util.data.file_old.RecordFileImporter.Row;
 
 /**
  * reads a properties file to access a Fixed field data file, and import it into

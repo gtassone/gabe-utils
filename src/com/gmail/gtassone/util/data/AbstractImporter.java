@@ -9,8 +9,8 @@ import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
-import com.gmail.gtassone.util.data.file.RecordFileImporter;
-import com.gmail.gtassone.util.data.file.RecordFileImporter.Row;
+import com.gmail.gtassone.util.data.file_old.RecordFileImporter;
+import com.gmail.gtassone.util.data.file_old.RecordFileImporter.Row;
 
 /**
  * this class was intended to capture the common behavior of different
