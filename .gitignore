@@ -17,6 +17,7 @@ overlays/
 artifacts/
 activemq/
 build/
+/bin/
 
 #annoying files
 create.ddl
