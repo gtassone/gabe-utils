@@ -1,0 +1,29 @@
+# log files
+*.log
+
+# IDEA project files
+*.iml
+*.idea/
+
+# Eclipse project files
+.project
+.classpath
+/.settings/
+.springBeans
+
+# target directories
+/target/
+overlays/
+artifacts/
+activemq/
+build/
+
+#annoying files
+create.ddl
+drop.ddl
+derby.log
+/portals/portal-applicant/*.checkstyle
+/web-fragments/web-fragment-form471/*.checkstyle
+/legacy/legacy-services-impl/test-output
+/web-fragments/web-fragment-form471/test-output
+/web-fragments/web-fragment-form471/src/main/resources/META-INF/resources/resources/styles/main.css.map
